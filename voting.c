@@ -23,7 +23,7 @@ case 3:
 printf("enter the 0");
 break;
 default:
-printf("invailid selected");
+printf("please select valid option");
   break;
 }
 }while (ch!=0);
